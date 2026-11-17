@@ -49,7 +49,7 @@ frontend development.
 A monochromatic, bilingual portfolio featuring
 an interactive feline companion.
 
-[View repository](https://github.com/KDBaron426/karen-personal-portfolio)
+[View repository](https://github.com/Hela426/karen-personal-portfolio)
 
 **Gema Brillante**
 
